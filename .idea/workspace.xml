@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873978e5-6893-4c51-9074-3466db5a42bd" name="Changes" comment="Добавлено решение задачи module_7_2.py.">
-      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_file.txt" afterDir="false" />
+    <list default="true" id="873978e5-6893-4c51-9074-3466db5a42bd" name="Changes" comment="Добавлено решение задачи module_7_3.py.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2j6JGxYOIAUNREIban3V475EKBO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.test-replace.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/YandexDisk/MDL-RFP-Dev2024_PyCharm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test-replace.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/YandexDisk/MDL-RFP-Dev2024_PyCharm&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="module_7_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="module7" />
@@ -109,12 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720705348777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлено решение задачи module_7_3.py.">
+      <option name="closed" value="true" />
+      <created>1720781376458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720781376458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлено решение задачи module_7_1.py." />
     <MESSAGE value="Добавлено решение задачи module_7_2.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлено решение задачи module_7_2.py." />
+    <MESSAGE value="Добавлено решение задачи module_7_3.py." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено решение задачи module_7_3.py." />
   </component>
 </project>
